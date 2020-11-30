@@ -19,6 +19,16 @@ Finish Date: 11/18/2020
 
 Hours Spent: 250+ Combined Hours
 
+### Photos Of Our Project
+
+Check out doc/presentation4/ to find four video demos of the games we implemented.
+
+![Starting Screen](/doc/readmeAssets/startScreen.png)
+
+![Player Selection](/doc/readmeAssets/playerselect.png)
+
+![Gameplay](/doc/readmeAssets/gameplaying.png)
+
 ### Resources Used
 * StackOverflow for specific questions
 * [Leaderboard Numbers](https://opengameart.org/content/numbers-blocks-set-01)
@@ -31,18 +41,10 @@ Hours Spent: 250+ Combined Hours
 
 ### Running the Program 
 
-Check out doc/presentation4/ to find four video demos of the games we implemented.
-
 ooga.Main class:
 
 * Run Main.main to start running the program. Make sure /resources is marked as the resources root and appropriate packages are installed.
 The splash screen that appears gives the option to:
-
-![Starting Screen](/doc/readmeAssets/startScreen.png)
-
-![Player Selection](/doc/readmeAssets/playerselect.png)
-
-![Gameplay](/doc/readmeAssets/gameplaying.png)
 
 1. Change the language of the program (currently English, Spanish, and Pig Latin are implemented) using the choice box.
 2. Start a new game using default rules and starting boards with the Create Game button.
