@@ -1,0 +1,22 @@
+GameType = ConnectFour
+Player1NormalPiece = ConnectFourPlayer1.png
+Player2NormalPiece = ConnectFourPlayer2.png
+InitialConfiguration=
+Player1 =
+Player1Name =
+Player2 =
+Player2Name =
+Theme=
+Author=
+Description=
+Player1Image =
+Player2Image =
+CurrentPlayerIndex = 1
+#New Data
+WinOnEnd = false
+WinConditions=RowWin 4,ColumnWin 4,DiagonalWin 4
+SpecialPiece = false
+PieceMove = AnywhereEmptyColumnMove
+BoardMoveUpdate = UpdateBottomRow
+PiecesAreMoved = false
+UserEndsTurn = false

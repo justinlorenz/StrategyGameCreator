@@ -1,0 +1,21 @@
+GameType = TicTacToe
+InitialConfiguration=data/TicTacToe/tictactoe.csv
+Player1 = Human
+Player1Name = Justin
+Player2 = Human
+Player2Name = Jerry
+Player1Piece = TicTacToePlayer1.png
+Player2Piece = TicTacToePlayer2.png
+Theme=Duke
+Player1Image = AmongUsGray
+Player2Image = AmongUsRed
+CurrentPlayerIndex = 1
+#New Data
+#Note: add ability to choose number needed to win
+WinOnEnd = false
+WinConditions=
+SpecialPiece = false
+PieceMove = AnywhereEmptyCellMove
+BoardMoveUpdate = UpdateWhereClicked
+PiecesAreMoved = false
+UserEndsTurn = false

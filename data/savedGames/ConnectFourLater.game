@@ -1,0 +1,23 @@
+#Game Saved File
+#Mon Nov 23 11:23:56 CST 2020
+Player1NormalPiece=ConnectFourPlayer1.png
+Description=I am tired rn\!
+SpecialPiece=false
+PieceMove=AnywhereEmptyColumnMove
+WinConditions=RowWin 4,ColumnWin 4,DiagonalWin 4
+UserEndsTurn=false
+GameType=ConnectFour
+PiecesAreMoved=false
+Player2Name=Jason
+Player2NormalPiece=ConnectFourPlayer2.png
+CurrentPlayerIndex=2
+WinOnEnd=false
+Player1Image=Mario
+InitialConfiguration=data/savedGridData/ConnectFourLater.csv
+Player2Image=RobertDuvall
+Theme=UNC
+Author=Justin
+BoardMoveUpdate=UpdateBottomRow
+Player2=Human
+Player1=Human
+Player1Name=Justin

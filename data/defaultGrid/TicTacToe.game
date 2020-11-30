@@ -1,0 +1,22 @@
+GameType = TicTacToe
+Player1NormalPiece = TicTacToePlayer1.png
+Player2NormalPiece = TicTacToePlayer2.png
+InitialConfiguration=
+Player1 =
+Player1Name =
+Player2 =
+Player2Name =
+Theme=
+Author=
+Description=
+Player1Image =
+Player2Image =
+CurrentPlayerIndex = 1
+#New Data
+WinOnEnd = false
+WinConditions=RowWin 3,ColumnWin 3,DiagonalWin 3
+SpecialPiece = false
+PieceMove = AnywhereEmptyCellMove
+BoardMoveUpdate = UpdateWhereClicked
+PiecesAreMoved = false
+UserEndsTurn = false

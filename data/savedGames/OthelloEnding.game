@@ -1,0 +1,23 @@
+#Game Saved File
+#Thu Nov 12 19:59:40 EST 2020
+Player1NormalPiece=OthelloPlayer1.png
+Description=Used to easily check end
+SpecialPiece=false
+PieceMove=OutflankRowColMove
+WinConditions=MostPiecesWin
+UserEndsTurn=false
+GameType=Othello
+PiecesAreMoved=false;
+Player2Name=Jerry
+Player2NormalPiece=OthelloPlayer2.png
+CurrentPlayerIndex=1
+WinOnEnd=true
+Player1Image=AmongUsGray
+InitialConfiguration=data/savedGridData/OthelloEnding.csv
+Player2Image=AmongUsRed
+Theme=Duke
+Author=Justin
+BoardMoveUpdate=UpdateWhereClicked,UpdateFlipOutflanked
+Player2=Human
+Player1=Human
+Player1Name=Justin

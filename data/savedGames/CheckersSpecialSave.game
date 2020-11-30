@@ -1,0 +1,27 @@
+#Game Saved File
+#Sat Nov 14 15:37:24 EST 2020
+Player1NormalPiece=CheckersPlayer1.png
+Description=Testing special piece save
+SpecialPiece=true
+PieceMove=DiagonalLeftMove,DiagonalRightMove,JumpDiagonalLeftMove,JumpDiagonalRightMove
+UserEndsTurn=true
+GameType=Checkers
+PiecesAreMoved=true
+WinOnEnd=false
+Player2Image=AmongUsRed
+Player2=Human
+Player1=Human
+WinConditions=NoMorePiecesWin
+SpecialMove=OmnidirectionalMove
+Player2Name=Jerry
+Player2NormalPiece=CheckersPlayer2.png
+Player1SpecialPiece=CheckersPlayer1King.png
+CurrentPlayerIndex=1
+Player1Image=AmongUsGray
+InitialConfiguration=data/savedGridData/CheckersSpecialSave.csv
+PromotionCondition=FarMostRowPromotion
+Theme=Duke
+Author=Justin
+BoardMoveUpdate=UpdateWhereLeftAndClicked,UpdateWhereJumped
+Player1Name=Loten
+Player2SpecialPiece=CheckersPlayer2King.png
