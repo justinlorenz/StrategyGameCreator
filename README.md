@@ -1,7 +1,7 @@
-final
+final project - Team JuJaJeLo
 ====
 
-This project is a 2 player strategy game simulator. In our game, you are able to play the variety of strategy games that we have provided with 2 uesrs or against a random AI. On top of this, new users are able to build any game variant they want using our current building blocks, or you can choose to create your own building blocks to be used as well. Also, our project is made up of APIs that are available to be used in other projects as well as they are open for extension.
+This project is a 2 player strategy game simulator. In our game, you are able to play the variety of strategy games that we have provided with 2 users or against a random AI. On top of this, new users are able to build any game variant they want using our current building blocks, or you can choose to create your own building blocks to be used as well. Also, our project is made up of APIs that are available to be used in other projects as well as being open to extension.
 
 Names:
 
