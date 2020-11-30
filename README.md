@@ -23,11 +23,11 @@ Hours Spent: 250+ Combined Hours
 
 Check out doc/presentation4/ to find four video demos of the games we implemented.
 
-![Starting Screen](/doc/readmeAssets/startScreen.png)
+<img src="/doc/readmeAssets/startScreen.png" width="600" height="525">
 
-![Player Selection](/doc/readmeAssets/playerselect.png)
+<img src="/doc/readmeAssets/playerselect.png" width="600" height="525">
 
-![Gameplay](/doc/readmeAssets/gameplaying.png)
+<img src="/doc/readmeAssets/gameplaying.png" width="600" height="525">
 
 ### Resources Used
 * StackOverflow for specific questions
