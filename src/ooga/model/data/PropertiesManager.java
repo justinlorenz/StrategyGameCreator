@@ -5,8 +5,6 @@ import java.io.File;
 /**
  * Interface used for properties management. Interface used here to allow for
  * classes to contain Game Properties in flexible ways.
- *
- * @author Loten Lhatsang
  */
 public interface PropertiesManager {
 

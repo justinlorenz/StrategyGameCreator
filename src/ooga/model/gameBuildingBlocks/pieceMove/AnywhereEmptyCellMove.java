@@ -9,10 +9,7 @@ import ooga.model.gameBuildingBlocks.validMoveChecks.ValidMoveCheck;
 
 /**
  * PieceMove building block which gets all moves that are an empty cell.
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
+
  */
 public class AnywhereEmptyCellMove extends PieceMove {
 

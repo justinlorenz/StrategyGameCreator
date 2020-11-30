@@ -4,10 +4,7 @@ import ooga.model.BoardStructure;
 
 /**
  * Promotion Condition building block which promotes pieces when they reach the last column.
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
+
  */
 public class LastColumnPromotion implements PromotionCondition {
 

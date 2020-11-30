@@ -5,10 +5,7 @@ import ooga.model.BoardStructure;
 /**
  * BoardMoveUpdate building block that updates board to be empty where piece
  * has just jumped over.
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
+
  */
 public class UpdateWhereJumped implements BoardMoveUpdate {
 

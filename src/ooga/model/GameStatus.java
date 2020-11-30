@@ -5,10 +5,6 @@ import ooga.model.players.Player;
 
 /**
  * Enum for the GameStatus a game can be in
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
  */
 public enum GameStatus {
 

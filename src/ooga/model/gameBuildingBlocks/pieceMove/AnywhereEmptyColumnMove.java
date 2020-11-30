@@ -10,10 +10,7 @@ import ooga.model.gameBuildingBlocks.validMoveChecks.ValidMoveCheck;
 /**
  * PieceMove building block which gets all moves that have an empty piece on
  * its column.
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
+
  */
 public class AnywhereEmptyColumnMove extends PieceMove {
 

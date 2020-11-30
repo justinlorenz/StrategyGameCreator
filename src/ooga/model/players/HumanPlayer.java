@@ -5,10 +5,7 @@ import ooga.model.GameMoveHandler;
 
 /**
  * Class for human players
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
+
  */
 public class HumanPlayer implements Player {
 

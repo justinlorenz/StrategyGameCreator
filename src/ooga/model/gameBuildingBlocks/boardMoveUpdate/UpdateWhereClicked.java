@@ -6,10 +6,7 @@ import ooga.model.pieces.NormalPiece;
 /**
  * BoardMoveUpdate building block that places current player's piece on the clicked
  * destination coordinates.
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
+
  */
 public class UpdateWhereClicked implements BoardMoveUpdate {
 

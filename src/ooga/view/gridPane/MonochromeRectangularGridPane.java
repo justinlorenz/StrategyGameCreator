@@ -13,7 +13,7 @@ import ooga.view.tile.Tile;
  * Subclass for grids that only have one kind of tile color, such as TicTacToe, Othello, and Connect
  * Four
  *
- * @author JasonDong
+ * 
  */
 public class MonochromeRectangularGridPane extends RectangularGridPane {
 

@@ -11,10 +11,7 @@ import ooga.model.pieces.Piece;
 
 /**
  * PieceMove building block which gets all moves that allow piece to go vertically.
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
+
  */
 public class VerticalMove extends PieceMove {
 

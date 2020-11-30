@@ -8,7 +8,7 @@ import ooga.view.dialogBox.CreateLoadDialogBox;
 /**
  * Subclass for the ComboBox responsible for letting the user pick a language
  *
- * @author JasonDong
+ *
  */
 
 

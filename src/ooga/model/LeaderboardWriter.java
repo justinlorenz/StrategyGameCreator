@@ -9,10 +9,6 @@ import ooga.model.data.PropertiesHandler;
 
 /**
  * Class for LeaderboardWriter
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
  */
 public class LeaderboardWriter {
 

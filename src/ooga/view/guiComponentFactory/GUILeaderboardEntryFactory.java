@@ -8,8 +8,6 @@ import javafx.scene.text.Text;
 
 /**
  * Factory used to create an entry to place on the leaderboard
- *
- * @author JasonDong
  */
 public class GUILeaderboardEntryFactory {
 

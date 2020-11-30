@@ -6,8 +6,6 @@ import javafx.scene.control.ComboBox;
 
 /**
  * Superclass for all ComboBoxes needed for the GUI
- *
- * @author JasonDong
  */
 
 public abstract class GUIStringComboBox extends ComboBox<String> {

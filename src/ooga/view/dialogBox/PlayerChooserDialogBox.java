@@ -27,7 +27,7 @@ import ooga.view.mainGUI.MainGUI;
 /**
  * Subclass for setting up the DialogBox for allowing the user to pick a name and profile picture
  *
- * @author JasonDong
+ * 
  */
 
 

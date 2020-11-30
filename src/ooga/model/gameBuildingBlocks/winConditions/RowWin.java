@@ -8,9 +8,9 @@ import ooga.model.WinStatus;
  * won the game by getting a certain number of their pieces consecutively
  * within a row.
  *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
+ * 
+ * 
+ * 
  */
 public class RowWin implements WinCondition {
 

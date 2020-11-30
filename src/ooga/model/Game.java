@@ -11,10 +11,6 @@ import ooga.model.players.Player;
 
 /**
  * Game class which implements GameEngine
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
  */
 public class Game implements GameEngine {
 

@@ -23,7 +23,7 @@ public class LeaderboardDialogBox extends DialogBox {
   /**
    * Subclass for setting up the DialogBox for allowing the user to see the current leaderboard
    *
-   * @author JasonDong
+   *
    */
 
   private final GUIButtonFactory guiButtonFactory;

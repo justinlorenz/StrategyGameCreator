@@ -8,10 +8,6 @@ import ooga.model.players.Player;
 
 /**
  * Class which handles GameMoves
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
  */
 public class GameMoveHandler {
 

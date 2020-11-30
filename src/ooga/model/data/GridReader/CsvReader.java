@@ -15,10 +15,6 @@ import ooga.model.pieces.PieceTypeFactory;
 
 /**
  * Class which reads csv data
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
  */
 public class CsvReader implements GridReader {
 

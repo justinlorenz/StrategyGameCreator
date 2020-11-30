@@ -5,9 +5,9 @@ import ooga.exception.ClassDoesNotExistException;
 /**
  * Factory class for creating ValidMoveCheck building blocks
  *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
+ * 
+ * 
+ * 
  */
 public class ValidMoveCheckFactory {
 

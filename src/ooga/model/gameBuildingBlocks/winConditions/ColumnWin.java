@@ -7,10 +7,7 @@ import ooga.model.WinStatus;
  * WinCondition building block that checks to see if either player has
  * won the game by getting a certain number of their pieces consecutively
  * within a column.
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
+
  */
 public class ColumnWin implements WinCondition {
 

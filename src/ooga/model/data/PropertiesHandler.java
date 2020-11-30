@@ -11,8 +11,6 @@ import ooga.exception.SavingFileException;
 
 /**
  * Class used to encapsulate properties class
- *
- * @author Loten Lhatsang
  */
 public class PropertiesHandler implements PropertiesManager {
 

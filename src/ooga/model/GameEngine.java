@@ -6,10 +6,6 @@ import ooga.controller.PossibleMoveList;
 
 /**
  * Interface for GameEngine
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
  */
 public interface GameEngine {
 

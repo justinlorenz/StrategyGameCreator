@@ -4,10 +4,6 @@ import ooga.model.pieces.Piece;
 
 /**
  * Encapsulated class which contains PieceBoard Data for ``
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
  */
 public class PieceBoardStructure {
 

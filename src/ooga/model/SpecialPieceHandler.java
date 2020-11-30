@@ -7,10 +7,6 @@ import ooga.model.gameBuildingBlocks.promotionCondition.PromotionCondition;
 
 /**
  * Class that handles Special Pieces
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
  */
 public class SpecialPieceHandler {
 

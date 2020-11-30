@@ -22,7 +22,7 @@ import ooga.view.mainGUI.MainGUI;
  * Subclass for setting up the DialogBox for allowing the user to pick a language and then either
  * create a new game or load in a game Also allows the user to access the chat box or leaderboard
  *
- * @author JasonDong
+ * 
  */
 
 public class CreateLoadDialogBox extends DialogBox {

@@ -22,7 +22,7 @@ import ooga.view.gridPane.RectangularGridPane;
  * controller in determining the game status, as well as handling the animation and step functions
  * for updating the board and AI.
  *
- * @author JasonDong
+ *
  */
 
 public class MainGUI extends Stage {

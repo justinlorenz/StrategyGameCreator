@@ -6,10 +6,7 @@ import ooga.model.WinStatus;
 /**
  * Interface for WinCondition building block. GameEngine uses dependency injection
  * with WinCondition Interface to allow for different implementations of building blocks.
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
+
  */
 public interface WinCondition {
 

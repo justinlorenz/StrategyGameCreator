@@ -13,8 +13,6 @@ import ooga.exception.BadDataException;
 
 /**
  * Factory used to create chat messages to place on the scene
- *
- * @author JasonDong
  */
 
 public class GUIChatMessageFactory {

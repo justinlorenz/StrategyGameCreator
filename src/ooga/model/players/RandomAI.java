@@ -12,7 +12,7 @@ import ooga.model.pieces.Piece;
 /**
  * Class for RandomAI player
  *
- * @author Jerry Fang
+ *
  */
 public class RandomAI implements Player {
 

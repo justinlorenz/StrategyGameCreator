@@ -29,7 +29,9 @@ Hours Spent: 250+ Combined Hours
 * [Mockito](https://site.mockito.org/) - org.mockito:mockito-core:3.6.0 - used for JUnit testing purposes.
 
 
-### Running the Program
+### Running the Program 
+
+Check out doc/presentation4/ to find four video demos of the games we implemented.
 
 ooga.Main class:
 
@@ -37,6 +39,10 @@ ooga.Main class:
 The splash screen that appears gives the option to:
 
 ![Starting Screen](/doc/readmeAssets/startScreen.png)
+
+![Player Selection](/doc/readmeAssets/playerselect.png)
+
+![Gameplay](/doc/readmeAssets/gameplaying.png)
 
 1. Change the language of the program (currently English, Spanish, and Pig Latin are implemented) using the choice box.
 2. Start a new game using default rules and starting boards with the Create Game button.

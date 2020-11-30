@@ -7,7 +7,7 @@ import javafx.scene.image.ImageView;
 /**
  * Superclass for the pieces to display on the board, overlayed on top of the Tiles
  *
- * @author JasonDong
+ *
  */
 public abstract class GUIPiece extends ImageView {
 

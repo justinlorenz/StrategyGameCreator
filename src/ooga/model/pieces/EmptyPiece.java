@@ -2,10 +2,7 @@ package ooga.model.pieces;
 
 /**
  * State to represent empty
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
+
  */
 public class EmptyPiece extends Piece {
 

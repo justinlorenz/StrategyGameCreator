@@ -4,10 +4,6 @@ import ooga.exception.ClassDoesNotExistException;
 
 /**
  * Factory class for creating BoardMoveUpdate building blocks
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
  */
 public class BoardMoveUpdateFactory {
 

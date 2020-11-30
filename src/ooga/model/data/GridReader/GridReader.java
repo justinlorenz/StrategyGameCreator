@@ -5,8 +5,6 @@ import ooga.model.data.PropertiesManager;
 
 /**
  * Interface for reading grid files. Interface implementation allows for different types of files to have grid data read.
- *
- * @author Loten Lhatsang
  */
 public interface GridReader {
 

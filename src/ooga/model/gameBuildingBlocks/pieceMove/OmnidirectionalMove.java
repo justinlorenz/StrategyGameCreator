@@ -9,10 +9,7 @@ import ooga.model.pieces.Piece;
 /**
  * PieceMove building block which gets all moves that allow piece to move and jump diagonally in upwards
  * and downwards direction.
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
+
  */
 public class OmnidirectionalMove extends PieceMove {
 

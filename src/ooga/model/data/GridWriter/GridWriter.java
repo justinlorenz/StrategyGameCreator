@@ -4,8 +4,6 @@ import ooga.controller.PieceDataRetriever;
 
 /**
  * Interface for saving grid files. Interface implementation allows for different types of files to save grid data.
- *
- * @author Loten Lhatsang
  */
 public interface GridWriter {
 

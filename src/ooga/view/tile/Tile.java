@@ -7,8 +7,6 @@ import ooga.view.piece.GUIPiece;
 
 /**
  * Superclass used for tiles that are displayed on the GridPane
- *
- * @author JasonDong
  */
 
 public abstract class Tile extends Rectangle {

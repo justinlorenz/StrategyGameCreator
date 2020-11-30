@@ -12,10 +12,7 @@ import ooga.model.gameBuildingBlocks.validMoveChecks.ValidMoveCheck;
 /**
  * PieceMove building block which gets all moves that allow current player's piece
  * to outflank their opponent's piece.
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
+
  */
 public class OutflankMove extends PieceMove {
 

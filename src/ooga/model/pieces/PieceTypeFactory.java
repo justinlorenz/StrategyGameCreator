@@ -5,10 +5,7 @@ import ooga.exception.ClassDoesNotExistException;
 
 /**
  * Factory class to create Pieces
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
+
  */
 public class PieceTypeFactory {
 

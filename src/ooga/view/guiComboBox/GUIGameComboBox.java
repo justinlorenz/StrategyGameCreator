@@ -7,8 +7,6 @@ import ooga.view.dialogBox.ChooseGameDialogBox;
 
 /**
  * Subclass for the ComboBox responsible for letting the user pick a game
- *
- * @author JasonDong
  */
 
 

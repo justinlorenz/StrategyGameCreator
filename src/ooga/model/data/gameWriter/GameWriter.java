@@ -8,10 +8,6 @@ import ooga.model.data.PropertiesManager;
 
 /**
  * Class used to save games into .game files.
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
  */
 public class GameWriter {
 

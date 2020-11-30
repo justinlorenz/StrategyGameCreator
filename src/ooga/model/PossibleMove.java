@@ -2,10 +2,6 @@ package ooga.model;
 
 /**
  * Class represents a move
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
  */
 public class PossibleMove {
 

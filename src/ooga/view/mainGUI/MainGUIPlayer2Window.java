@@ -14,7 +14,7 @@ import javafx.scene.text.Text;
 /**
  * Set up player 2's profile picture, name, and update with status of the current player's turn
  *
- * @author JasonDong
+ * 
  */
 
 public class MainGUIPlayer2Window extends VBox {

@@ -11,10 +11,7 @@ import ooga.model.gameBuildingBlocks.validMoveChecks.ValidMoveCheck;
  * Abstract class is used as all subclasses have same logic of determining if move is valid, but
  * require retrieval of valid moves to be different. Abstract class allows for logic for determining
  * if move is valid to be implemented only once and prevents duplication over all the subclasses.
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
+
  */
 public abstract class PieceMove {
 

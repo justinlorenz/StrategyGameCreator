@@ -9,7 +9,7 @@ import ooga.view.tile.Tile;
 /**
  * Superclass for different grids to display on the scene for the user to play a game
  *
- * @author JasonDong
+ *
  */
 
 public abstract class RectangularGridPane extends Pane {

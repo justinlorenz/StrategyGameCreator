@@ -10,9 +10,9 @@ import ooga.model.WinStatus;
  * no more pieces left. If a player has no more pieces left, then the
  * other player has won the game.
  *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
+ * 
+ * 
+ * 
  */
 public class NoMorePiecesWin implements WinCondition {
 

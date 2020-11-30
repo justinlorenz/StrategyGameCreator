@@ -6,8 +6,6 @@ import ooga.model.data.PropertiesManager;
 
 /**
  * Interface which saves Game files. Implementation of interface allows different types of files to store game data.
- *
- * @author Loten Lhatsang
  */
 public interface GameFileWriter {
 

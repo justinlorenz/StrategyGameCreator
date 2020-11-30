@@ -7,8 +7,6 @@ import ooga.exception.BadDataException;
 /**
  * Factory used for all textfields used within the GUI, such as entering a name or when saving a
  * file
- *
- * @author JasonDong
  */
 
 public class GUITextFieldFactory {

@@ -4,10 +4,7 @@ import ooga.model.BoardStructure;
 
 /**
  * Interface for Player
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
+
  */
 public interface Player {
 

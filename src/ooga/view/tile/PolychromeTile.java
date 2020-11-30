@@ -3,7 +3,7 @@ package ooga.view.tile;
 /**
  * Subclass used for displaying a tile for games with 2 different grid types
  *
- * @author JasonDong
+ * 
  */
 public class PolychromeTile extends Tile {
 

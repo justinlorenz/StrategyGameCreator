@@ -10,10 +10,7 @@ import ooga.model.WinStatus;
  * WinCondition building block that checks to see if either player has
  * won the game by looking at which player has the most pieces. When
  * both players have the same number of pieces, this results in a draw.
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
+
  */
 public class MostPiecesWin implements WinCondition {
 

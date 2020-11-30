@@ -2,10 +2,6 @@ package ooga.model;
 
 /**
  * Class for containing WinStatus information
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
  */
 public class WinStatus {
 

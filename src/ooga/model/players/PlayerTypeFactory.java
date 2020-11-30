@@ -6,10 +6,7 @@ import ooga.model.GameMoveHandler;
 
 /**
  * Factory class to create Players
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
+
  */
 public class PlayerTypeFactory {
 

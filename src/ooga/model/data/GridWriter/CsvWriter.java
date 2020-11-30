@@ -10,10 +10,6 @@ import ooga.exception.SavingFileException;
 
 /**
  * Class used to write grid files to save grid data
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
  */
 public class CsvWriter implements GridWriter {
 

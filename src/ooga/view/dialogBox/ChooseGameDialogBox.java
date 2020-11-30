@@ -20,7 +20,7 @@ import ooga.view.guiComponentFactory.GUIButtonFactory;
  * Subclass for setting up the DialogBox for allowing the user to pick a game, a grid size, and a
  * theme
  *
- * @author JasonDong
+ * 
  */
 
 public class ChooseGameDialogBox extends DialogBox {

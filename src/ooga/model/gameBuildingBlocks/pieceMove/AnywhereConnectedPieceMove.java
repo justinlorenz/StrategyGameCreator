@@ -11,10 +11,7 @@ import ooga.model.gameBuildingBlocks.validMoveChecks.ValidMoveCheck;
 /**
  * PieceMove building block which gets all moves that are an empty cell
  * that are connected to a piece.
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
+
  */
 public class AnywhereConnectedPieceMove extends PieceMove {
 

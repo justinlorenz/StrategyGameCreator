@@ -5,10 +5,7 @@ import ooga.model.BoardStructure;
 /**
  * Interface for PromotionCondition building block. GameEngine uses dependency injection
  * with PromotionCondition Interface to allow for different implementations of building block.
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
+
  */
 public interface PromotionCondition {
 

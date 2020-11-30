@@ -2,8 +2,6 @@ package ooga.view.piece;
 
 /**
  * Subclass for an empty piece
- *
- * @author JasonDong
  */
 public class EmptyGUIPiece extends GUIPiece {
 

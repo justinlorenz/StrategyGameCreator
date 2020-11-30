@@ -7,8 +7,6 @@ import ooga.model.PossibleMove;
 /**
  * Class created to hold an encapsulated data structure of possible moves that can be sent
  * to the controller and then to the view for the ability to display possible moves on the board
- *
- * @author Justin Lorenz
  */
 public class PossibleMoveList {
 

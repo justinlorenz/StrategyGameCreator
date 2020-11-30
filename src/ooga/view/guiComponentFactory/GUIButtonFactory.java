@@ -8,8 +8,6 @@ import ooga.exception.BadDataException;
 
 /**
  * Factory used to make Buttons to place on the scenes in the GUI
- *
- * @author JasonDong
  */
 public class GUIButtonFactory {
 

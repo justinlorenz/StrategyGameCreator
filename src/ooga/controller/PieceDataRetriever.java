@@ -4,8 +4,6 @@ package ooga.controller;
  * Interface created to be implemented by the controller so that the controller can be passed
  * to data with only the getPieceData method being available
  *
- * @author Loten Lhatsang
- * @author Justin Lorenz
  */
 public interface PieceDataRetriever {
 

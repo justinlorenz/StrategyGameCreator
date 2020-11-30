@@ -6,10 +6,7 @@ import ooga.model.pieces.NormalPiece;
 /**
  * BoardMoveUpdate building block that places current player's piece on the rightmost column
  * of the row that was selected as the destination coordinates (destinationI).
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
+
  */
 public class UpdateLastColumn implements BoardMoveUpdate {
 

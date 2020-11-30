@@ -6,10 +6,7 @@ import ooga.model.pieces.NormalPiece;
 /**
  * BoardMoveUpdate building block that updates piece to be moved to
  * new coordinates and updates old coordinates to be empty
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
+
  */
 public class UpdateWhereLeftAndClicked implements BoardMoveUpdate {
 

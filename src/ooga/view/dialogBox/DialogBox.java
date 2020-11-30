@@ -8,7 +8,7 @@ import javafx.stage.Stage;
  * Superclass for all Dialog Boxes shown on screen to the user for selecting game configuration
  * parameters and windows for Chat and Leaderboard
  *
- * @author JasonDong
+ *
  */
 public abstract class DialogBox extends Stage {
 

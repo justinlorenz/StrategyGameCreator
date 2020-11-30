@@ -14,7 +14,7 @@ import ooga.view.guiComponentFactory.GUIButtonFactory;
 /**
  * Set up the bottom window for the MainGUI with the appropriate buttons and background
  *
- * @author JasonDong
+ * 
  */
 public class MainGUIBottomWindow extends HBox {
 

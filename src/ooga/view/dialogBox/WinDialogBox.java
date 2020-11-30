@@ -13,7 +13,7 @@ import ooga.view.guiComponentFactory.GUIButtonFactory;
 /**
  * Subclass for setting up the DialogBox for showing the winner that won, or the message for a tie
  *
- * @author JasonDong
+ * 
  */
 
 public class WinDialogBox extends DialogBox {

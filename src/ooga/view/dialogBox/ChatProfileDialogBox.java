@@ -19,7 +19,7 @@ import ooga.view.guiComponentFactory.GUITextFieldFactory;
  * Subclass for setting up the DialogBox for allowing the user to pick a chat name and profile
  * picture
  *
- * @author JasonDong
+ * 
  */
 public class ChatProfileDialogBox extends DialogBox {
 

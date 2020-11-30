@@ -1,9 +1,8 @@
 package ooga.controller;
 
-/**
+/*
  * Class created to hold data about specific pieces in the model,
  * so that this data could be passed to the controller and then do the view
- * @author Justin Lorenz
  */
 public class PieceData {
 

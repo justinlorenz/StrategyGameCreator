@@ -6,7 +6,7 @@ import javafx.scene.image.Image;
  * Subclass used for pieces that cannot be moved, such as pieces for TicTacToe, ConnectFour, and
  * Othello
  *
- * @author JasonDong
+ * 
  */
 public class NonMovableGUIPiece extends GUIPiece {
 

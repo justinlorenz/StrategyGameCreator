@@ -6,8 +6,6 @@ import ooga.model.GameEngine;
 
 /**
  * Interface for reading Game Files. Interface implementation allows for different types of files to have game data read.
- *
- * @author LotenLhatsang
  */
 public interface GameFileReader {
 

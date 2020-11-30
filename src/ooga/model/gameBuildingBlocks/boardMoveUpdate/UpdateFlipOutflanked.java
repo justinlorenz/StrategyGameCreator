@@ -12,10 +12,7 @@ import ooga.model.pieces.NormalPiece;
 /**
  * BoardMoveUpdate building block that flips current opponent's piece if
  * it is outflanked from current player's pieces.
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
+
  */
 public class UpdateFlipOutflanked implements BoardMoveUpdate {
 

@@ -5,7 +5,7 @@ import javafx.scene.image.Image;
 /**
  * Subclass used for pieces that can be moved around with play, such as checkers
  *
- * @author JasonDong
+ * 
  */
 
 public class MoveableGUIPiece extends GUIPiece {

@@ -8,8 +8,6 @@ import ooga.controller.GameController;
 
 /**
  * Initialize elements to place on the top window of the Main GUI
- *
- * @author JasonDong
  */
 
 public class MainGUITopWindow extends HBox {

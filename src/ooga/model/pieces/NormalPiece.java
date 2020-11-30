@@ -2,10 +2,7 @@ package ooga.model.pieces;
 
 /**
  * State to represent a normal piece
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
+
  */
 public class NormalPiece extends Piece {
 

@@ -5,10 +5,7 @@ import java.util.List;
 
 /**
  * Abstract class for Pieces
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
+
  */
 public abstract class Piece {
 

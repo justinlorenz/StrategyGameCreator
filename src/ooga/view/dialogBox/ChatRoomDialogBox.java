@@ -25,7 +25,7 @@ import ooga.view.guiComponentFactory.GUITextFieldFactory;
  * Subclass for setting up the DialogBox for allowing the user to chat and interact with others
  * socially
  *
- * @author JasonDong
+ * 
  */
 
 public class ChatRoomDialogBox extends DialogBox {

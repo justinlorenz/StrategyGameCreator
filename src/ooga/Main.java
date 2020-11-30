@@ -8,11 +8,8 @@ import ooga.view.dialogBox.CreateLoadDialogBox;
 /**
  * Strategy Games - Collection of strategy based grid-type games. Play against an opponent or a CPU.
  * This collection includes Checkers, Tic-Tac-Toe, Connect-4, and Othello
+
  *
- * @author Jason Dong
- * @author Jerry Fang
- * @author Justin Lorenz
- * @author Loten Lhatsang
  */
 public class Main extends Application {
 

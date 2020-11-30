@@ -29,10 +29,6 @@ import ooga.model.players.PlayerTypeFactory;
 
 /**
  * Class used to read .game files to read Game Files
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
  */
 public class GameReader implements GameFileReader {
 

@@ -7,9 +7,9 @@ import ooga.model.pieces.Piece;
  * Promotion Condition building block which promotes pieces when they reach the far most row away
  * from their own team's side.
  *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
+ * 
+ * 
+ * 
  */
 public class FarMostRowPromotion implements PromotionCondition {
 

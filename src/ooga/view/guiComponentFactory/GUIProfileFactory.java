@@ -9,7 +9,7 @@ import ooga.exception.BadDataException;
 /**
  * Factory used to create profile pictures on the pane that the user can pick
  *
- * @author JasonDong
+ * 
  */
 public class GUIProfileFactory {
 

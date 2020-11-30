@@ -17,11 +17,6 @@ import ooga.model.data.gameWriter.GameWriter;
  * Main GameController, responsible for connecting frontend and backend, responsible for creating a
  * game, loading a game, parsing CSV and .game data initiate backend classes. Includes setters and
  * getters for the frontend.
- *
- * @author Jason Dong
- * @author Justin Lorenz
- * @author Jerry Fang
- * @author Loten Lhatsang
  */
 public class GameController implements PieceDataRetriever {
 

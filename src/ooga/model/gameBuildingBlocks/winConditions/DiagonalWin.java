@@ -10,9 +10,9 @@ import ooga.model.WinStatus;
  * won the game by getting a certain number of their pieces consecutively
  * within a diagonal.
  *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
+ * 
+ * 
+ * 
  */
 public class DiagonalWin implements WinCondition {
 

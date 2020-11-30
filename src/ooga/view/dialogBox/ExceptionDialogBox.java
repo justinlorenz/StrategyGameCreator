@@ -12,7 +12,7 @@ import ooga.view.guiComponentFactory.GUIButtonFactory;
 /**
  * Subclass for setting up the DialogBox for displaying exceptions
  *
- * @author JasonDong
+ * 
  */
 
 

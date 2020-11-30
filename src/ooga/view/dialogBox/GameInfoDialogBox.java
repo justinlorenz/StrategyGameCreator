@@ -15,7 +15,7 @@ import ooga.view.guiComponentFactory.GUIButtonFactory;
 /**
  * Subclass for setting up the DialogBox for allowing the user to see the game rules
  *
- * @author JasonDong
+ * 
  */
 
 public class GameInfoDialogBox extends DialogBox {

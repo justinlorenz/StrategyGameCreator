@@ -1,0 +1,201 @@
+.GamePickerStyles{
+  -fx-background-image: url("dialogBoxMainBackground.png");
+}
+
+.ChooseGameStyles{
+  -fx-background-image: url("dialogBoxMainBackground.png");
+}
+
+.PlayerChooserStyles{
+  -fx-background-image: url("dialogBoxMainBackground.png");
+}
+
+.WinLoseTieStyles{
+  -fx-background-image: url("WinLoseTieBackground.png");
+}
+
+.ExceptionStyles{
+  -fx-background-image: url("WinLoseTieBackground.png");
+}
+
+.MainGuiStyles{
+  -fx-background-image: url("WinLoseTieBackground.png");
+}
+
+.ChatBoxStyles{
+  -fx-background-image: url("NeutralBackground.png");
+}
+
+.LeaderboardStyles{
+  -fx-background-image: url("leaderboardBackground.png");
+}
+
+
+.TransparentStyle{
+  -fx-background-color: transparent;
+}
+
+.MainButton {
+  -fx-padding: 8 15 15 15;
+  -fx-background-insets: 0,0 0 5 0, 0 0 6 0, 0 0 7 0;
+  -fx-background-radius: 8;
+  -fx-background-color:
+      linear-gradient(from 0% 93% to 0% 100%, #a34313 0%, #903b12 100%),
+      #9d4024,
+      #d86e3a,
+      radial-gradient(center 50% 50%, radius 100%, #d86e3a, #c54e2c);
+  -fx-effect: dropshadow( gaussian , rgba(0,0,0,0.75) , 4,0,0,1 );
+  -fx-font-weight: bold;
+  -fx-font-size: 1.1em;
+}
+
+.MainButtonClicked:pressed {
+  -fx-padding: 10 15 13 15;
+  -fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;
+  -fx-background-color:
+      linear-gradient(from 0% 93% to 0% 100%, #a34313 0%, #903b12 100%),
+      #9d4024,
+      #d86e3a,
+      radial-gradient(center 50% 50%, radius 100%, #ea7f4b, #c54e2c);
+}
+
+.EndTurnButton {
+  -fx-padding: 8 15 15 15;
+  -fx-background-insets: 0,0 0 5 0, 0 0 6 0, 0 0 7 0;
+  -fx-background-radius: 8;
+  -fx-background-color:
+      linear-gradient(from 0% 93% to 0% 100%, #ffd65b 0%, #e68400 100%),
+      #ffef84,
+      #f2ba44,
+      radial-gradient(center 50% 50%, radius 100%, #ffe657 0%, #eea10b 100%);
+  -fx-effect: dropshadow( gaussian , rgba(255,255,255,0.9) , 4,0,0,1 );
+  -fx-font-weight: bold;
+  -fx-font-size: 1.1em;
+}
+
+.EndTurnButtonClicked:pressed {
+  -fx-padding: 10 15 13 15;
+  -fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;
+  -fx-background-color:
+      linear-gradient(from 0% 93% to 0% 100%, #ffd65b 0%, #e68400 100%),
+      #ffef84,
+      #f2ba44,
+      radial-gradient(center 50% 50%, radius 100%, #ea7f4b, #eea10b);
+}
+
+
+.ComboBox {
+  -fx-font-size: 11pt;
+  -fx-font-family: "Verdana";
+  -fx-background: #FFFFFF;
+  -fx-background-color: lightgray;
+}
+
+.Player1ThemeDuke {
+  -fx-background-image: url("dukeTheme1.png");
+}
+
+.Player2ThemeDuke {
+  -fx-background-image: url("dukeTheme2.png");
+}
+
+.Player1ThemeUNC{
+  -fx-background-image: url("uncTheme1.png");
+}
+
+.Player2ThemeUNC{
+  -fx-background-image: url("uncTheme2.png");
+}
+
+.Player1ThemeChristmas{
+  -fx-background-image: url("christmasTheme1.png");
+}
+
+.Player2ThemeChristmas{
+  -fx-background-image: url("christmasTheme2.png");
+}
+
+.TopBanner{
+  -fx-background-image: url("topBanner.png");
+}
+
+.BottomBanner{
+  -fx-background-image: url("bottomGUIBackground.png");
+}
+
+.ChatMessage{
+  -fx-background-color: lavender;
+}
+
+.my-text{
+  -fx-font-size: 12px;
+  -fx-font-weight: bold;
+  -fx-text-fill: black;
+  -fx-font-family: Verdana;
+}
+
+.ProfileText{
+  -fx-font-size: 12px;
+  -fx-font-weight: bold;
+  -fx-font-family: Verdana;
+  -fx-fill: white;
+}
+
+.WinLoseTieText{
+  -fx-font-size: 20px;
+  -fx-font-weight: bold;
+  -fx-font-family: Verdana;
+  -fx-fill: white;
+}
+
+.ExceptionText{
+  -fx-font-size: 20px;
+  -fx-font-weight: bold;
+  -fx-font-family: Verdana;
+  -fx-fill: white;
+}
+
+.NameText{
+  -fx-font-size: 10px;
+  -fx-font-weight: bold;
+  -fx-font-family: Verdana;
+  -fx-fill: black;
+}
+
+.MessageText{
+  -fx-font-size: 15px;
+  -fx-font-weight: bold;
+  -fx-font-family: "Courier New";
+  -fx-fill: black;
+}
+
+.LeaderboardText{
+  -fx-font-size: 20px;
+  -fx-font-weight: bold;
+  -fx-font-family: Verdana;
+  -fx-fill: white;
+}
+
+.GameTitleText{
+  -fx-font-size: 20px;
+  -fx-font-weight: bold;
+  -fx-font-family: Verdana;
+  -fx-fill: white;
+}
+
+.GameDescriptionText{
+  -fx-font-size: 11px;
+  -fx-font-weight: NORMAL;
+  -fx-font-family: Verdana;
+  -fx-fill: white;
+}
+
+
+
+
+
+
+
+
+
+

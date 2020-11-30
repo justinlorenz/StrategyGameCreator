@@ -5,10 +5,6 @@ import ooga.model.pieces.Piece;
 
 /**
  * Encapsulated class which contains the board content
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
  */
 public class BoardStructure {
 

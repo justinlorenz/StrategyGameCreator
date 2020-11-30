@@ -12,10 +12,7 @@ import ooga.model.pieces.Piece;
 
 /**
  * PieceMove building block which gets all moves that allow piece to jump over horizontally.
- *
- * @author Loten Lhatsang
- * @author Justin Lorenz
- * @author Jerry Fang
+
  */
 public class JumpHorizontalMove extends PieceMove {
 

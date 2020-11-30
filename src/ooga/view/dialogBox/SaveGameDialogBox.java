@@ -15,7 +15,7 @@ import ooga.view.guiComponentFactory.GUIButtonFactory;
 /**
  * Subclass for setting up the DialogBox for allowing the user to save their game
  *
- * @author JasonDong
+ *
  */
 
 public class SaveGameDialogBox extends DialogBox {
